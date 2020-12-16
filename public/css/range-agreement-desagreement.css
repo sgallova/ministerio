@@ -1,0 +1,43 @@
+.answer-ranger {
+    padding: 2em 0;
+}
+
+.bar-range {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+}
+.bar-range li {
+    flex: auto;
+    text-align: center;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 1px 3px #21212159, 0px 2px 1px #ffffff47 inset;
+}
+.bar-range li.active {
+    background-color: var(--color-blue-ligth);
+}
+.bar-range li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar-range li a .bar {
+    display: inline-block;
+    width: 4px;
+    height: 40px;
+    background-color: var(--color-blue-bold);
+    margin: 0 2em;
+}
+.text-range {
+    padding: 1em 0;
+    margin-bottom: 1.5em;
+}
+.text-range span {
+    color: var(--color-blue-ligth);
+    font-size: 1.2em;
+}
