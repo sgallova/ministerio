@@ -99,6 +99,20 @@ components
     padding: .5em 1em;
     color: var(--color-blue-ligth);
     line-height: 1.5em;
+    position: relative;
+}
+.container-all-section-evidences .container-evidence:after {
+    content: "";
+    position: absolute;
+    background-color: transparent;
+    width: 80%;
+    height: 10px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 0px 10px 10px #636b6f;
 }
 .container-frequent-question {
     background-color: var(--color-blue-ligth);

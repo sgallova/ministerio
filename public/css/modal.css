@@ -23,6 +23,7 @@
     display: flex;
     align-items: center;
     position: relative;
+    box-shadow: 0px 0px 19px #0c0b0b5e;;
 }
 .container-all-modal-content .close-modal {
     position: absolute;
