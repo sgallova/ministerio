@@ -1,33 +1,36 @@
 <div class="container-modal" id="container-modal">
     <div class="container-all-modal-content">
         <a href="#" class="close-modal" id="close-modal">
-            <img src="images/icon-close-circle.png" alt="">
+            <img src="images/icon-close-circle.png" alt="" width="50">
         </a>
-        <a href="" class="nav prev">
+        <a href="" data-direction="prev" class="nav prev">
             <img src="images/icon-arrow-circu-izqui.png" alt="">
         </a>
         <div class="container-modal-content none" id="modal-1">
             <div class="rd-container">
-                <div class="rd-element rd-s-100 rd-l-30">
+                <div class="rd-element rd-s-100 rd-l-30 t-right">
                     <img src="images/i1.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-70">
                     <h3 class="text-color-blue-bold">Qué es el <br> <b>COVID-19</b></h3>
+                    <br><br>
                     <p>El COVID-19 es el nombre de la enfermedad responsable de la pandemia actual. Es una enfermedad principalmente respiratoria y altamente contagiosa.</p>
                 </div>
             </div>
         </div>
         <div class="container-modal-content none" id="modal-2">
             <div class="rd-container">
-                <div class="rd-element rd-s-100 rd-l-20">
-                    <h3>¿Cuáles son los <br><b>síntomas</b> de <br>COVID-19?</h3>
+                <div class="rd-element rd-s-100 rd-l-20 flex rd-element-align-self">
+                    <h3 class="text-color-blue-bold">¿Cuáles son los <br><b>síntomas</b> de <br>COVID-19?</h3>
+                    <br><br>
                 </div>
                 <div class="rd-element rd-s-100 rd-l-80">
-                    <img src="images/i2.png" alt="">
+                    <img src="images/i2.png" alt="" width="130">
                 </div>
                 <div class="rd-element rd-s-100">
                     <div class="rd-container">
                         <div class="rd-element rd-s-100 rd-l-50">
+                            <br>
                             <p>Dentro de los síntomas más comunes que hacen sospechar que una persona tiene COVID-19 están:</p>
                             <ul>
                                 <li>Fiebre (temperatura mayor de 38 grados centígrados)</li>
@@ -43,13 +46,14 @@
                             </ul>
                         </div>
                         <div class="rd-element rd-s-100 rd-l-50">
+                            <br>
                             <p>Otros síntomas menos comunes son:</p>
                             <ul>
                                 <li>Vómitos o diarrea</li>
                                 <li>Dolor abdominal</li>
                                 <li>Brote en la pie</li>
                             </ul>
-                            <div class="bg-color-blue-ligth">
+                            <div class="bg-color-blue-ligth p-1em">
                                 <p class="text-color-blue-bold"><b>Si presenta estos síntomas debe consultar a su médico.</b></p>
                             </div>
                         </div>
@@ -60,9 +64,9 @@
         <div class="container-modal-content none" id="modal-3">
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
-                    <h3 class="text-color-blue-bold">¿Cuáles personas tienen mayor riesgo de contraer <br>la infección por COVID-19 y tener una enfermedad grave?</h3>
+                    <h3 class="text-color-blue-bold">¿Cuáles personas <b>tienen mayor riesgo</b> de contraer <br>la infección por COVID-19 y tener una <b>enfermedad grave?</b></h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-30">
+                <div class="rd-element rd-s-100 rd-l-30 flex rd-element-justify-center">
                     <img src="images/i3.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-70">
@@ -90,8 +94,8 @@
                         </li>
                     </ul>
                     <p class="text-color-blue-bold">
-                        Consultar al médico para que le indique si su enfermedad lo pone en riesgo de mayor afectación al
-                        contagiarse de COVID-19.
+                        <b>Consultar al médico para que le indique si su enfermedad lo pone en riesgo de mayor afectación al
+                            contagiarse de COVID-19.</b>
                     </p>
                 </div>
             </div>
@@ -119,18 +123,12 @@
                     </ul>
                 </div>
                 <div class="rd-element rd-s-100 t-center">
-                    <div class="container-img-brand">
-                        <img src="images/p4-e1-a.png" alt="">
-                    </div>
-                    <div class="container-img-brand">
-                        <img src="images/p4-e1-b.png" alt="">
-                    </div>
-                    <div class="container-img-brand">
-                        <img src="images/p4-e1-c.png" alt="">
-                    </div>
+                    <img src="images/p4-e1-a.png" alt="">
+                    <img src="images/p4-e1-b.png" alt="">
+                    <img src="images/p4-e1-c.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 t-center">
-                    <p>
+                <div class="rd-element rd-s-100 rd-l-60 t-center auto">
+                    <p class="text-small">
                         Tomado y traducido de: “Considerations for Preparing for In-Person Learning During COVID-19. Emily Frank, MD,
                         Pediatrician & Public School Teacher; Noemi Spinazzi, MD, Pediatrician; and Sohil Sud, MD, Pediatrician. UCSF
                         Collaborative to Advise on Re-opening Education Safely (CARES). 13 Agosto 2020. Disponible en:
@@ -138,21 +136,13 @@
                     </p>
                 </div>
                 <div class="rd-element rd-s-100 t-center">
-                    <div class="container-img-brand">
-                        <img src="images/p4-e2-a.png" alt="">
-                    </div>
-                    <div class="container-img-brand">
-                        <img src="images/p4-e2-b.png" alt="">
-                    </div>
-                    <div class="container-img-brand">
-                        <img src="images/p4-e2-c.png" alt="">
-                    </div>
-                    <div class="container-img-brand">
-                        <img src="images/p4-e2-d.png" alt="">
-                    </div>
+                    <img src="images/p4-e2-a.png" alt="">
+                    <img src="images/p4-e2-c.png" alt="">
+                    <img src="images/p4-e2-b.png" alt="">
+                    <img src="images/p4-e2-d.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 t-center">
-                    <p>
+                <div class="rd-element rd-s-100 rd-l-60 auto t-center">
+                    <p class="text-small">
                         Tomado y traducido de: “Considerations for Preparing for In-Person Learning During COVID-19. Emily Frank, MD,
                         Pediatrician & Public School Teacher; Noemi Spinazzi, MD, Pediatrician; and Sohil Sud, MD, Pediatrician. UCSF
                         Collaborative to Advise on Re-opening Education Safely (CARES). 13 Agosto 2020. Disponible en:
@@ -164,7 +154,7 @@
         <div class="container-modal-content none" id="modal-5">
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
-                    <h3 class="text-color-blue-bold">¿Qué tan frecuente es la <br>infección por COVID-19 en niños?</h3>
+                    <h3 class="text-color-blue-bold">¿Qué <b>tan frecuente</b> es la <br>infección por COVID-19 <b>en niños?</b></h3>
                 </div>
                 <div class="rd-element rd-s-100">
                     <p>La infección por COVID-19 es menos común en los niños que en los adultos.</p>
@@ -173,7 +163,7 @@
                         solo el 2% de las personas que se infectan por COVID-19 son niños o adolescentes.
                     </p>
                 </div>
-                <div class="rd-element rd-s-100 t-center">
+                <div class="rd-element rd-s-100 rd-l-70 auto t-center">
                     <img src="images/img-1.png" alt="">
                 </div>
             </div>
@@ -183,10 +173,10 @@
                 <div class="rd-element rd-s-100">
                     <h3 class="text-color-blue-bold">¿Es frecuente que los niños <b>transmitan</b> a otras <br>personas el COVID-19?</h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-50 t-center">
                     <img src="images/i4.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-50 flex rd-element-align-center rd-element-col">
                     <p>
                         La capacidad de que un niño transmita la infección por COVID-19 a otras personas (otros niños o adultos)
                         puede ser igual o incluso menor en comparación a los adultos.
@@ -231,14 +221,14 @@
                 <div class="rd-element rd-s-100">
                     <h3 class="text-color-blue-bold">
                         ¿La falta de <b>asistencia presencial</b> del niño, niña,<br>
-                        adolescente o joven a su institución educativa <br>
-                        previene <b>por completo</b> la transmisión de COVID-19?
+                        adolescente o joven a su institución educativa <b>previene<br>
+                            por completo</b> la transmisión de COVID-19?
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-30 flex rd-element-justify-center rd-element-align-self t-center">
                     <img src="images/i6.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-60 flex rd-element-align-center rd-element-col">
                     <p>
                         La falta de asistencia presencial de los niños, niñas, adolescentes y jóvenes a su institución educativa no previene el contagio.
                         El cierre de las instituciones educativas se implementó en casi todo el mundo desde abril del 2020 para evitar la
@@ -263,13 +253,13 @@
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
                     <h3 class="text-color-blue-bold">
-                        ¿Por qué reabrir las instituciones<br>educativas?
+                        ¿Por qué <b>reabrir</b> las instituciones<br>educativas?
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-35 t-center">
                     <img src="images/i9.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-60">
                     <p>La decisión de reabrir las instituciones educativas se justifica por varios motivos:</p>
                     <ul>
                         <li>Garantizar el derecho a la educación</li>
@@ -288,13 +278,13 @@
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
                     <h3 class="text-color-blue-bold">
-                        ¿Qué hacer en caso de que <br>el niño o una persona que <b>conviva</b><br> con él, tenga síntomas de COVID-19?
+                        ¿Qué hacer en caso de que el niño<br> o una persona que <b>conviva</b><br> con él, tenga síntomas de COVID-19?
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-50 t-center">
                     <img src="images/i8.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 rd-l-50">
+                <div class="rd-element rd-s-100 rd-l-50 flex rd-element-align-center rd-element-col">
                     <p>
                         Los padres, cuidadores, niños, niñas, adolescentes y jóvenes deben revisar diariamente que no tengan síntomas de la enfermedad.
                     </p>
@@ -311,7 +301,7 @@
                 </div>
             </div>
         </div>
-        <a href="" class="nav next">
+        <a href="" data-direction="next" class="nav next">
             <img src="images/icon-arrow-circu-dere.png" alt="">
         </a>
     </div>

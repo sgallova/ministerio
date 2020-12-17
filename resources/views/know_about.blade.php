@@ -104,7 +104,7 @@
         </div>
     </section>
     <section>
-        @include('partials.modals')
+        @include('components.modals')
     </section>
     <section class="bg-color-blue-blod full">
         <div class="rd-container">

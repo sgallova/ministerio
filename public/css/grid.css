@@ -412,3 +412,6 @@ img {
 .t-justify {
     text-align: justify;
 }
+.auto {
+    margin: auto;
+}
