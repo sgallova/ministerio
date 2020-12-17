@@ -18,7 +18,8 @@
     align-items: center;
     box-shadow: 2px 1px 3px #21212159, 0px 2px 1px #ffffff47 inset;
 }
-.bar-range li.active {
+.bar-range li.active,
+.bar-range li:hover{
     background-color: var(--color-blue-ligth);
 }
 .bar-range li a {

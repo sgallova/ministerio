@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@push('plugin-css')
+    <link rel="stylesheet" href="{{ asset('css/modal.css') }}">
+@endpush
 @section('content')
     <section class="container-question">
         <div class="rd-container">
@@ -49,56 +52,59 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-1">
                     <p>{!! __('frequent_questions.first_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-2">
                     <p>{!! __('frequent_questions.second_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-3">
                     <p>{!! __('frequent_questions.third_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-4">
                     <p>{!! __('frequent_questions.fourth_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-5">
                     <p>{!! __('frequent_questions.fifth_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-6">
                     <p>{!! __('frequent_questions.sixth_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-7">
                     <p>{!! __('frequent_questions.seventh_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-8">
                     <p>{!! __('frequent_questions.eighth_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-9">
                     <p>{!! __('frequent_questions.ninth_question') !!}</p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
-                <div class="container-frequent-question">
+                <div class="container-frequent-question" data-modal="modal-10">
                     <p>{!! __('frequent_questions.tenth_question') !!}</p>
                 </div>
             </div>
         </div>
+    </section>
+    <section>
+        @include('partials.modals')
     </section>
     <section class="bg-color-blue-blod full">
         <div class="rd-container">
@@ -108,3 +114,6 @@
         </div>
     </section>
 @endsection
+@push('plugin-js')
+    <script src="{{ asset('js/know_about.js') }}"></script>
+@endpush

@@ -147,5 +147,6 @@
         </div>
     </div>
 </footer>
+@stack('plugin-js')
 </body>
 </html>
