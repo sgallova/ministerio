@@ -20,14 +20,14 @@
             </div>
             <div class="rd-element rd-s-100 rd-l-70">
                 <div class="rd-container-col">
-                    <h2 class="text-color-red">AYUDA PARA LA TOMA INFORMADA DE DECISIONES POR PARTE DE LA FAMILIA</h2>
-                    <h2 class="text-color-blue-bold">REGRESO A LAS INSTITUCIONES EDUCATIVAS DURANTE LA PANDEMIA COVID-19</h2>
+                    <h2 class="text-color-red line-height-1em font-size-1-2em margin-top-2-5em">AYUDA PARA LA TOMA INFORMADA DE DECISIONES POR PARTE DE LA FAMILIA</h2>
+                    <h2 class="text-color-blue-bold line-height-1em font-400 font-size-1-2em">REGRESO A LAS INSTITUCIONES EDUCATIVAS DURANTE LA PANDEMIA COVID-19</h2>
                 </div>
             </div>
         </div>
     </div>
     <div class="rd-element rd-s-100 rd-l-50">
-        <p>
+        <p class="font-size-1-1em line-height-1-5em">
             La asistencia de los niños, niñas, adolescentes y jóvenes a las instituciones educativas durante la pandemia por COVID-19 es una decisión que requiere información confiable.
             Esta ayuda, lo guiará a través de una serie pasos para ayudarlos a usted y a su familia a preparase para tomar esta importante decisión.
         </p>
@@ -37,7 +37,7 @@
 <section id="navs" class="bg-color-blue-blod">
     <div class="rd-container">
         <div class="rd-element rd-s-100">
-            <h3 class="t-center text-color-blue-ligth">
+            <h3 class="t-center text-color-blue-ligth font-size-1-5em text-uppercase">
                 ¿Qué debo saber para el retorno de mi hijo a la institución educativa?
             </h3>
         </div>

@@ -6,7 +6,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold">CONOZCA LA EVIDENCIA</h1>
+                <h1 class="text-color-blue-bold title">Conozca la Evidencia</h1>
             </div>
         </div>
         <div class="rd-container container-all-section-evidences">
@@ -47,7 +47,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold">PREGUNTAS FRECUENTES</h2>
+                <h2 class="text-color-blue-bold title-300-2em">Preguntas Frecuentes</h2>
             </div>
         </div>
         <div class="rd-container">
@@ -99,6 +99,11 @@
             <div class="rd-element rd-s-100 rd-l-20">
                 <div class="container-frequent-question" data-modal="modal-10">
                     <p>{!! __('frequent_questions.tenth_question') !!}</p>
+                </div>
+            </div>
+            <div class="rd-element rd-s-100 rd-l-20">
+                <div class="container-frequent-question" data-modal="modal-11">
+                    <p>{!! __('frequent_questions.eleventh_question') !!}</p>
                 </div>
             </div>
         </div>

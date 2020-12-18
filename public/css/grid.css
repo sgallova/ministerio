@@ -13,7 +13,7 @@ img {
     height: auto;
 }
 .none {
-    display: none;
+    display: none !important;
 }
 .flex {
     display: flex !important;

@@ -10,4 +10,6 @@ return [
     "eighth_question" => "¿La falta de <b>asistencia presencial</b> del niño, niña, adolescente o joven a su institución educativa <b>previene por completo</b> la transmisión de COVID-19?",
     "ninth_question" => "¿Por qué <b>reabrir</b> las instituciones educativas?",
     "tenth_question" => "¿Qué hacer es caso de que el niño o una persona que <b>conviva</b> con él, tenga síntomas de COVID-19?",
+    "eleventh_question" => "¿Es frecuente que los niños y niñas <b>transmitan</b> a otras personas el COVID-19?"
+
 ];

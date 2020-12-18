@@ -15,6 +15,9 @@ header {
 footer {
     padding: 2em 0;
 }
+ul {
+    list-style: none;
+}
 
 /*
     personalized
@@ -22,6 +25,53 @@ footer {
 #navs {
     min-height: 170px;
     position: relative;
+}
+h1.title {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-size: 2.3em;
+    line-height: 1.2em;
+}
+h2.title-300-2em {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-weight: 300;
+    font-size: 2em;
+}
+
+ul.no-padding {
+    padding: 0;
+}
+ul.vinetas {
+    margin: 0;
+    margin-bottom: 1em;
+    list-style: none;
+}
+ul.vinetas li{
+    background: url(../images/vineta.png) no-repeat 0 10px;
+    background-size: 8px;
+    padding-left: 1em;
+}
+.line-height-1em{
+    line-height: 1em;
+}
+.line-height-1-5em {
+    line-height: 1.5em;
+}
+.font-400 {
+    font-weight: 400;
+}
+.font-size-1-2em{
+    font-size: 1.2em;
+}
+.font-size-1-1em{
+    font-size: 1.1em;
+}
+.font-size-1-5em {
+    font-size: 1.5em;
+}
+.margin-top-2-5em {
+    margin-top: 2.5em;
 }
 .container-question {
     margin-top: 200px;
@@ -34,6 +84,9 @@ footer {
 }
 .p-1em {
     padding: 1em;
+}
+.text-uppercase {
+    text-transform: uppercase;
 }
 /*
 components
@@ -149,14 +202,17 @@ components
     margin-bottom: 1em;
 }
 .container-twitter.fact {
-    min-height: 283px;
+    min-height: 312px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 2em;
 }
 .container-twitter.fact label {
-    display: block;
+    display: flex;
     margin: 10px 0;
+    align-items: center;
+    padding: 6px;
 }
 .container-twitter.fact input[type='radio'] {
     background-color: white;
@@ -167,9 +223,23 @@ components
     height: 20px;
     border-radius: 50%;
     border: 3px solid white;
+    margin-right: 20px;
 }
 .container-twitter.fact input[type='radio']:checked {
     background-color: var(--color-red);
+}
+.container-twitter.fact.response {
+    background-color: var(--color-blue-bold);
+    display: flex;
+    color: var(--color-blue-ligth);
+    min-height: 320px;
+}
+.container-twitter.fact.response img {
+    max-width: 150px;
+    margin-bottom: 1em;
+}
+.fact-no b, .fact-yes b{
+    color: burlywood;
 }
 .container-text.message {
     min-height: 170px;

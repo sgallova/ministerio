@@ -9,40 +9,32 @@
             <div class="rd-element rd-s-100">
                 <ul class="bar-range">
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-izqui.png" alt="" />
+                        <a href="" class="izq">
                         </a>
                     </li>
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-izqui.png" alt="" />
+                        <a href="" class="izq">
                         </a>
                     </li>
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-izqui.png" alt="" />
+                        <a href="" class="izq">
                         </a>
                     </li>
-                    <li class="active">
-                        <a href="">
-                            <img src="images/icon-arrow-izqui.png" alt="" />
+                    <li>
+                        <a href="" class="cent">
                             <span class="bar"></span>
-                            <img src="images/icon-arrow-dere.png" alt="" />
                         </a>
                     </li>
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-dere.png" alt="" />
+                        <a href="" class="der">
                         </a>
                     </li>
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-dere.png" alt="" />
+                        <a href="" class="der">
                         </a>
                     </li>
                     <li>
-                        <a href="">
-                            <img src="images/icon-arrow-circu-dere.png" alt="" />
+                        <a href="" class="der">
                         </a>
                     </li>
                 </ul>

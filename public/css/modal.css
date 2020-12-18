@@ -81,9 +81,11 @@
     max-width: 100%;
 }
 #modal-6.container-modal-content img,
+#modal-7.container-modal-content img,
 #modal-8.container-modal-content img,
 #modal-9.container-modal-content img,
-#modal-10.container-modal-content img{
+#modal-10.container-modal-content img,
+#modal-11.container-modal-content img{
     max-width: 350px;
 }
 .open-l {

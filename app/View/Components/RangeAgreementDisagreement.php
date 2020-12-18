@@ -13,7 +13,7 @@ class RangeAgreementDisagreement extends Component
      */
 
     /**
-     *  Pregunta que sale es la plantilla
+     * Pregunta que sale es la plantilla
      * @var string
      */
     public $question;

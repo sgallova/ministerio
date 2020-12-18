@@ -8,16 +8,23 @@ var container_modal_content = document.getElementsByClassName('container-modal-c
 
 var nav = document.getElementsByClassName('nav');
 
+const NEXT = 'next';
+const PREV = 'prev';
+const RIGHT = true;
+const LEFT = false;
+
+
+
 /**
  * Activa la modal desde los botones de preguntas frecuentes
  */
 for(let i = 0; i < frequent_questions.length; i++) {
     frequent_questions[i].addEventListener('click', function (event) {
+        event.preventDefault();
         for (let ii =0; ii < container_modal_content.length; ii ++) {
             container_modal_content[ii].classList.add('none');
         }
         document.getElementById(this.getAttribute('data-modal')).classList.remove('none');
-        event.preventDefault();
         if (container_modal.classList.contains('close-r')) {
             container_modal.classList.remove('close-r')
             container_modal.classList.add('open-l')
@@ -51,11 +58,11 @@ for (let i = 0; i < nav.length; i++) {
     nav[i].addEventListener('click', function (event){
         event.preventDefault();
         switch (this.getAttribute('data-direction')) {
-            case 'next' :
-                    navigation(true, this.getAttribute('data-modal'));
+            case NEXT :
+                    navigation(RIGHT, this.getAttribute('data-modal'));
                 break;
-            case 'prev' :
-                    navigation(false, this.getAttribute('data-modal'));
+            case PREV :
+                    navigation(LEFT, this.getAttribute('data-modal'));
                 break;
             default : break;
         }
@@ -97,7 +104,6 @@ function refresh_navigation(direction, element)
 {
     let next = element.nextElementSibling;
     let prev = element.previousElementSibling;
-    console.log(element)
     if (direction) {
         if (next.classList.contains('nav')) {
             document.querySelector('.nav.prev').setAttribute('data-modal', frequent_questions[frequent_questions.length - 1].getAttribute('data-modal'));

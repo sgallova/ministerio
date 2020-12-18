@@ -3,7 +3,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold">BENEFICIOS DE LA ALTERNANCIA</h1>
+                <h1 class="text-color-blue-bold title">Beneficios de la alternancia</h1>
             </div>
         </div>
         <div class="rd-container">
@@ -54,10 +54,10 @@
     <section>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold">¿Qué piensan otros padres?</h1>
+                <h1 class="text-color-blue-bold title">¿Qué piensan otros padres?</h1>
             </div>
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold">¿Qué piensan del regreso a clases en<br>tiempos de COVID-19?</h2>
+                <h2 class="text-color-blue-bold title-300-2em">¿Qué piensan del regreso a clases en<br>tiempos de COVID-19?</h2>
             </div>
         </div>
         <div class="rd-container">
@@ -88,7 +88,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold">
+                <h2 class="text-color-blue-bold title-300-2em">
                     ¿Cuáles han sido las experiencias con el aprendizaje<br>de los hijos durante la pandemia?
                 </h2>
             </div>
@@ -120,7 +120,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold">
+                <h2 class="text-color-blue-bold title-300-2em">
                     ¿Qué dudas o temores tienen con la asistencia<br>presencial de los hijos a la institución educativa?
                 </h2>
             </div>
@@ -144,7 +144,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold">
+                <h2 class="text-color-blue-bold title-300-2em">
                     ¿Qué piensan los niños, niñas, adolescentes y<br>jóvenes?
                 </h2>
             </div>
