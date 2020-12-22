@@ -32,11 +32,11 @@ h1.title {
     font-size: 2.3em;
     line-height: 1.2em;
 }
-h2.title-300-2em {
+h2.title-300-1-5em {
     margin-top: .5em;
     margin-bottom: .5em;
     font-weight: 300;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 ul.no-padding {
@@ -237,6 +237,9 @@ components
 .container-twitter.fact.response img {
     max-width: 150px;
     margin-bottom: 1em;
+}
+.fact-sure a {
+    color: var(--color-blue-ligth);
 }
 .fact-no b, .fact-yes b{
     color: burlywood;

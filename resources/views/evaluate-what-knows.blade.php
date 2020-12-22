@@ -4,10 +4,10 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold title">Evalúa lo que Sabes</h1>
+                <h1 class="text-color-blue-bold title">Evalúe lo que Sabes</h1>
             </div>
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">Los hechos</h2>
+                <h2 class="text-color-blue-bold title-300-1-5em">Los hechos</h2>
             </div>
         </div>
         <div class="rd-container">
@@ -16,13 +16,13 @@
                     <div class="container-twitter fact">
                         {{ $fact['question'] }}
                         <label for="fact-{{ $loop->index }}-yes">
-                            <input type="radio" name="fact-{{ $loop->index }}" value="1" data-content="fact-{{ $loop->index }}" data-content-display="fact-yes-{{ $loop->index }}" id="fact-{{ $loop->index }}-yes">Sí
+                            <input type="radio" name="fact-{{ $loop->index }}" data-content="fact-{{ $loop->index }}" data-content-display="fact-yes-{{ $loop->index }}" id="fact-{{ $loop->index }}-yes">Sí
                         </label>
                         <label for="fact-{{ $loop->index }}-not">
-                            <input type="radio" name="fact-{{ $loop->index }}" value="0" data-content="fact-{{ $loop->index }}" data-content-display="fact-not-{{ $loop->index }}" id="fact-{{ $loop->index }}-not">No
+                            <input type="radio" name="fact-{{ $loop->index }}" data-content="fact-{{ $loop->index }}" data-content-display="fact-not-{{ $loop->index }}" id="fact-{{ $loop->index }}-not">No
                         </label>
                         <label for="fact-{{ $loop->index }}-sure">
-                            <input type="radio" name="fact-{{ $loop->index }}" value="3" data-content="fact-{{ $loop->index }}" data-content-display="fact-sure-{{ $loop->index }}" id="fact-{{ $loop->index }}-sure">No estoy seguro
+                            <input type="radio" name="fact-{{ $loop->index }}" data-content="fact-{{ $loop->index }}" data-content-display="fact-sure-{{ $loop->index }}" id="fact-{{ $loop->index }}-sure">No estoy seguro
                         </label>
                     </div>
                 </div>
@@ -33,13 +33,21 @@
                 <div class="rd-element rd-s-100 rd-l-1-3">
                     <div id="fact-{{ $loop->index }}" class="container-twitter fact response none">
                         <div id="fact-yes-{{ $loop->index }}" class="fact-yes t-center none">
-                            <img src="images/retro-correcto.png" alt="">
+                            @if ($fact['correct'] == 'yes')
+                                <img src="images/retro-correcto.png" alt="">
+                            @else
+                                <img src="images/retro-incorrecto.png" alt="">
+                            @endif
                             <p class="t-center">
                                 {!! $fact['yes'] !!}
                             </p>
                         </div>
                         <div id="fact-not-{{ $loop->index }}" class="fact-no t-center none">
-                            <img src="images/retro-incorrecto.png" alt="">
+                            @if ($fact['correct'] == 'not')
+                                <img src="images/retro-correcto.png" alt="">
+                            @else
+                                <img src="images/retro-incorrecto.png" alt="">
+                            @endif
                             <p class="t-center">
                                 {!! $fact['not'] !!}
                             </p>

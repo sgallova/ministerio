@@ -17,10 +17,6 @@ class NavegationController extends Controller
         ]);
     }
 
-    /**
-     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\View\View
-     * Metodo para renderizar la plantilla de la segunda seccion
-     */
     public function BenefitsAlternation()
     {
         return view('benefits_alternation', [
@@ -54,6 +50,7 @@ class NavegationController extends Controller
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\View\View
      * Metodo para renderizar la plantilla de la quinta seccion
      */
+
     public function MessagesRemember()
     {
         return view('messages-to-remember', [

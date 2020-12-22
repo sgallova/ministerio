@@ -57,7 +57,7 @@
                 <h1 class="text-color-blue-bold title">¿Qué piensan otros padres?</h1>
             </div>
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">¿Qué piensan del regreso a clases en<br>tiempos de COVID-19?</h2>
+                <h2 class="text-color-blue-bold title-300-1-5em">¿Qué piensan del regreso a clases en<br>tiempos de COVID-19?</h2>
             </div>
         </div>
         <div class="rd-container">
@@ -88,7 +88,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">
+                <h2 class="text-color-blue-bold title-300-1-5em">
                     ¿Cuáles han sido las experiencias con el aprendizaje<br>de los hijos durante la pandemia?
                 </h2>
             </div>
@@ -97,7 +97,7 @@
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-twitter">
                     <p>
-                        Ha sido duro pero al final nos terminamos acostumbrando a todo; a los oficios en la casa, el trabajo y los hijos....
+                        “Ha sido duro pero al final nos terminamos acostumbrando a todo; a los oficios en la casa, el trabajo y los hijos....
                         Al principio a él le costó adaptarse a la metodología virtual del colegio y me decía que le hacían mucha falta los amigos! Pero con los días todo fue mejorando!”.
                     </p>
                 </div>
@@ -120,7 +120,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">
+                <h2 class="text-color-blue-bold title-300-1-5em">
                     ¿Qué dudas o temores tienen con la asistencia<br>presencial de los hijos a la institución educativa?
                 </h2>
             </div>
@@ -144,7 +144,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">
+                <h2 class="text-color-blue-bold title-300-1-5em">
                     ¿Qué piensan los niños, niñas, adolescentes y<br>jóvenes?
                 </h2>
             </div>

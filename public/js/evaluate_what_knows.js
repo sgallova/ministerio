@@ -1,5 +1,4 @@
 var options = document.querySelectorAll("input[type='radio']");
-var container_fact_response = document.querySelectorAll(".container-twitter.fact.response");
 for (let i =0; i < options.length; i++) {
     options[i].addEventListener('change', function (event){
         event.preventDefault();
@@ -10,7 +9,6 @@ for (let i =0; i < options.length; i++) {
 }
  function clear(element)
  {
-     console.log(element)
      for(let i = 0; i < element.length; i++) {
          element[i].classList.add('none');
      }

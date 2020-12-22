@@ -6,6 +6,7 @@ return [
         "second_condition" => "Me siento tranquilo con las medidas de bioseguridad que se van a implementar es la institución educativa.",
         "third_condition" => "Voy a reportar de inmediato a la institución educativa si mi hijo tiene síntomas de COVID-19.",
         "fourth_condition" => "En caso de que mi hijo tenga síntomas de COVID-19, no permitiré que vaya a la institución educativa y consultaré al médico.",
+       "fifth_question" => "En otros espacios de interacción distintos a las instituciones educativas, en las que participamos con mi(s) hijo(s), aplicamos las medidas de bioseguridad."
     ],
     "learning_study_conditions" => [
         "first_condition" => "Mi hijo tiene acceso al material de apoyo pedagógico para su estudio y se ha adaptado a la educación es casa.",

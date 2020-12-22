@@ -28,8 +28,10 @@
     </div>
     <div class="rd-element rd-s-100 rd-l-50">
         <p class="font-size-1-1em line-height-1-5em">
-            La asistencia de los niños, niñas, adolescentes y jóvenes a las instituciones educativas durante la pandemia por COVID-19 es una decisión que requiere información confiable.
-            Esta ayuda, lo guiará a través de una serie pasos para ayudarlos a usted y a su familia a preparase para tomar esta importante decisión.
+            La asistencia de los niños, niñas, adolescentes y jóvenes a las instituciones educativas durante la
+            pandemia por COVID-19 es una decisión que requiere información veraz y confiable. Este instrumento,
+            lo guiará a través de una serie de pasos para ayudarlos a usted y a su familia a preparase para tomar
+            esta importante decisión.
         </p>
         <p class="t-right text-color-blue-bold">Fecha de elaboración: noviembre 2020</p>
     </div>
@@ -116,22 +118,22 @@
                 <div class="rd-element rd-s-100 rd-l-30">
                     <div class="rd-container no-padding">
                         <div class="rd-element rd-s-100 rd-l-50 t-right">
-                            <a href="">
+                            <a href="https://www.facebook.com/Mineducacion" target="_blank">
                                 <img src="images/rs-fb.png" alt="">
                             </a>
                         </div>
                         <div class="rd-element rd-s-100 rd-l-50">
-                            <a href="">
+                            <a href="https://www.youtube.com/mineducacion" target="_blank">
                                 <img src="images/rs-yt.png" alt="">
                             </a>
                         </div>
                         <div class="rd-element rd-s-100 rd-l-50 t-right">
-                            <a href="">
+                            <a href="https://www.instagram.com/mineducacioncol/" target="_blank">
                                 <img src="images/rs-ins.png" alt="">
                             </a>
                         </div>
                         <div class="rd-element rd-s-100 rd-l-50 ">
-                            <a href="">
+                            <a href="https://twitter.com/mineducacion" target="_blank">
                                 <img src="images/rs-twi.png" alt="">
                             </a>
                         </div>

@@ -31,6 +31,8 @@
                     <div class="rd-container">
                         <div class="rd-element rd-s-100 rd-l-50">
                             <br>
+                            <p>La infección por COVID-19 puede causar síntomas muy variados. El virus se considera un virus respiratorio,
+                                pero los síntomas que causa no solo son en las vías respiratorias o pulmones.</p>
                             <p>Dentro de los síntomas más comunes que hacen sospechar que una persona tiene COVID-19 están:</p>
                             <ul class="vinetas no-padding">
                                 <li>Fiebre (temperatura mayor de 38 grados centígrados)</li>
@@ -64,14 +66,14 @@
         <div class="container-modal-content none" id="modal-3">
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
-                    <h3 class="text-color-blue-bold">¿Cuáles personas <b>tienen mayor riesgo</b> de contraer <br>la infección por COVID-19 y tener una <b>enfermedad grave?</b></h3>
+                    <h3 class="text-color-blue-bold">¿Cómo <b>afecta</b> la infección por <b>COVID-19</b><br> a los niños, niñas y adolescentes</h3>
                 </div>
                 <div class="rd-element rd-s-100 rd-l-30 flex rd-element-justify-center">
                     <img src="images/i3.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-70">
-                    <p>Los niños comúnmente presentan formas leves de la enfermedad o sin síntomas.</p>
-                    <p>Las personas que tienen mayor riesgo de enfermar de COVID-19 son:</p>
+                    <p>Los niños, niñas, adolescentes comúnmente presentan formas leves de la enfermedad por covid-19 o la padecen sin síntomas.</p>
+                    <p>La implementación del protocolo de bioseguridad del sector educativo mitiga el riesgo de contagio para todos los miembros de la comunidad educativa</p>
                     <ul>
                         <li>
                             <b>1. Los mayores de 60 años</b>
@@ -171,7 +173,7 @@
         <div class="container-modal-content none" id="modal-6">
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
-                    <h3 class="text-color-blue-bold">¿Es frecuente que los niños <b>transmitan</b> a otras <br>personas el COVID-19?</h3>
+                    <h3 class="text-color-blue-bold">¿En qué consiste el modelo de <b>alternancia</b><br> en las instituciones educativas?</h3>
                 </div>
                 <div class="rd-element rd-s-100 rd-l-50 t-center">
                     <img src="images/i4.png" alt="">
@@ -263,16 +265,16 @@
                     <img src="images/i9.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60">
-                    <p>La decisión de reabrir las instituciones educativas se justifica por varios motivos:</p>
+                    <p>La decisión de reabrir las instituciones educativas se sustenta en varios motivos:</p>
                     <ul class="vinetas no-padding">
-                        <li>Garantizar el derecho a la educación</li>
-                        <li>Mejorar la calidad del aprendizaje de los niños, niñas, adolescentes y jóvenes</li>
-                        <li>Los momentos de presencialidad son básicos en el desarrollo integral de los niños, niñas, adolescentes y jóvenes</li>
-                        <li>Favorecer que los estudiantes accedan, permanezcan y se gradúen, desde la primera infancia hasta la educación superior</li>
-                        <li>Promover la equidad en las oportunidades de aprendizaje</li>
-                        <li>Disminuir el abandono escolar</li>
+                        <li>Permite el cumplimiento de la garantía del derecho a la educación a quienes la emergencia sanitaria ha impedido la continuidad del proceso de aprendizaje.</li>
+                        <li>Mejora la calidad del aprendizaje de los niños, niñas, adolescentes y jóvenes.</li>
+                        <li>Las interacciones en la presencialidad son fundamentales para el desarrollo integral de los niños, niñas, adolescentes y jóvenes.</li>
+                        <li>Favorece el acceso y la permanencia, y por tanto trayectorias educativas desde la primera infancia hasta la educación superior.</li>
+                        <li>Promueve la equidad en las oportunidades de aprendizaje</li>
+                        <li>Disminuye los riesgos de vulneración y aumenta los factores de protección de los derechos de los niños, niñas, adolescentes y jóvenes.</li>
                         <li>Retomar la institución educativa como espacio protector de los derechos de los niños, niñas, adolescentes y jóvenes.</li>
-                        <li>Contribuir al bienestar de la familia al aliviar la carga laboral y económica que representa para algunos padres renunciar al empleo y quedarse en casa al cuidado de los hijos</li>
+                        <li>Contribuye al bienestar de la familia al aliviar la carga laboral y económica que representa para algunos padres renunciar al empleo y quedarse en casa al cuidado de los hijos.</li>
                     </ul>
                 </div>
             </div>

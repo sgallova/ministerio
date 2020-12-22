@@ -6,7 +6,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold title">Conozca la Evidencia</h1>
+                <h1 class="text-color-blue-bold title">Conozca Sobre el COVID-19<</h1>
             </div>
         </div>
         <div class="rd-container container-all-section-evidences">
@@ -15,15 +15,14 @@
                     <p>
                         La infección por COVID-19 es menos común en los niños que en los adultos.
                         En los niños la infección suele ser más leve y se presentan más casos sin síntomas.
-                        <br />
-                        De 100 personas que se infectan por COVID-19, solo 2 son niños
+                        De 100 personas. Que se infectan por COVID-19, solo 2 son niños
                     </p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-25">
                 <div class="container-evidence">
                     <p>
-                        La posibilidad de que un niño transmita la infección por COVID-19 a otras personas parece ser igual o incluso menor en comparación a los adultos.
+                        La posibilidad de que un niño transmita la infección por COVID-19 a otras personas puede ser igual o incluso menor en comparación a los adultos.
                         Los niños no son súper-transmisores como se creía al inicio de la pandemia.
                     </p>
                 </div>
@@ -31,7 +30,7 @@
             <div class="rd-element rd-s-100 rd-l-25">
                 <div class="container-evidence">
                     <p>
-                        Las secretarías de educación y de salud evalúan rutinariamente el comportamiento del COVID-19 en la región y en la institución,
+                        Las secretarías de educación y de salud evalúan el comportamiento del COVID-19 en la región y en la institución,
                         y con base en ello toman decisiones sobre la apertura o cierre de las instituciones educativas.
                     </p>
                 </div>
@@ -39,15 +38,15 @@
             <div class="rd-element rd-s-100 rd-l-25">
                 <div class="container-evidence">
                     <p>
-                        Para tener jornadas escolares seguras, las instituciones educativas requieren seguir el protocolo de bioseguridad tanto por los niños, niñas, adolescentes y jóvenes, como por todos los adultos que entran en contacto con ella.
-                        La institución educativa es un espacio para apropiar y promover prácticas de cuidado y autocuidado.
+                        Para tener jornadas escolares seguras, los protocolos de bioseguridad deben ser cumplidos tanto por los niños, niñas, adolescentes y jóvenes, como por los adultos que entran en la institución educativa.
+                        Además, la institución educativa es un espacio para apropiar y promover prácticas de cuidado y autocuidado que son útiles incluso en otros espacios de la vida cotidiana.
                     </p>
                 </div>
             </div>
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em">Preguntas Frecuentes</h2>
+                <h2 class="text-color-blue-bold title-300-1-5em">Preguntas Frecuentes</h2>
             </div>
         </div>
         <div class="rd-container">
