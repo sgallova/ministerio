@@ -39,7 +39,7 @@
 <section id="navs" class="bg-color-blue-blod">
     <div class="rd-container">
         <div class="rd-element rd-s-100">
-            <h3 class="t-center text-color-blue-ligth font-size-1-5em text-uppercase">
+            <h3 class="t-center text-color-blue-ligth font-size-2em text-uppercase">
                 ¿Qué debo saber para el retorno de mi hijo a la institución educativa?
             </h3>
         </div>

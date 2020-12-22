@@ -5,6 +5,7 @@
 * {
     font-family: 'Work Sans', sans-serif;
     line-height: 1.5em;
+    font-size: 14px;
 }
 header {
     background: rgb(190,12,77);
@@ -32,11 +33,11 @@ h1.title {
     font-size: 2.3em;
     line-height: 1.2em;
 }
-h2.title-300-1-5em {
+h2.title-300-2em {
     margin-top: .5em;
     margin-bottom: .5em;
     font-weight: 300;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 ul.no-padding {
@@ -67,8 +68,8 @@ ul.vinetas li{
 .font-size-1-1em{
     font-size: 1.1em;
 }
-.font-size-1-5em {
-    font-size: 1.5em;
+.font-size-2em {
+    font-size: 2em;
 }
 .margin-top-2-5em {
     margin-top: 2.5em;
@@ -123,11 +124,13 @@ components
      height: 100px;
      border-radius: 50%;
      display: flex;
-     font-size: 3em;
      justify-content: center;
      align-items: center;
      color: var(--color-blue-ligth);
      box-shadow: 3px 0px 8px #820a358f, -3px 0px 8px #bdb4b7ad;
+ }
+ .container-section-nav .section-number h4{
+     font-size: 4em;
  }
 .container-section-nav.active .section-number,
 .container-section-nav:hover .section-number{
@@ -136,9 +139,11 @@ components
 }
 .container-section-nav .section-text {
     text-align: center;
-    font-size: 1.5em;
     font-weight: 700;
     color: var(--color-blue-ligth);
+}
+.container-section-nav .section-text p {
+    font-size: 1.5em;
 }
 .container-section-nav.active .section-text,
 .container-section-nav:hover .section-text{
@@ -147,7 +152,7 @@ components
 .container-all-section-evidences .container-evidence {
     border-top: 20px solid var(--color-red);
     background-color: var(--color-blue-bold);
-    min-height: 310px;
+    min-height: 277px;
     box-sizing: content-box;
     padding: .5em 1em;
     color: var(--color-blue-ligth);
@@ -169,7 +174,7 @@ components
 }
 .container-frequent-question {
     background-color: var(--color-blue-ligth);
-    height: 300px;
+    height: 230px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -179,15 +184,21 @@ components
     box-sizing: border-box;
     padding: 0 1em;
     font-size: 1em;
-    line-height: 1.5em;
+    line-height: 10px;
     cursor: pointer;
+}
+.container-frequent-question p,
+.container-frequent-question b
+{
+    font-size: 1.2em;
+    line-height: 22px;
 }
 .container-text{
     width: 100%;
     padding: .5em 1em;
     border: 1px solid var(--color-black);
     line-height: 1.5em;
-    min-height: 123px;
+    min-height: 90px;
     display: flex;
     align-items: center;
     margin-bottom: 2em;
@@ -245,5 +256,5 @@ components
     color: burlywood;
 }
 .container-text.message {
-    min-height: 170px;
+    min-height: 147px;
 }

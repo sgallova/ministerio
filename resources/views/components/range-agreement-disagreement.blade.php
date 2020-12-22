@@ -21,7 +21,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="" class="cent">
+                        <a href="" class="cent active">
                             <span class="bar"></span>
                         </a>
                     </li>

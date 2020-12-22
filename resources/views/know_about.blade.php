@@ -6,7 +6,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold title">Conozca Sobre el COVID-19<</h1>
+                <h1 class="text-color-blue-bold title">Conozca Sobre el COVID-19</h1>
             </div>
         </div>
         <div class="rd-container container-all-section-evidences">
@@ -46,7 +46,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-1-5em">Preguntas Frecuentes</h2>
+                <h2 class="text-color-blue-bold title-300-2em"><br>Preguntas Frecuentes</h2>
             </div>
         </div>
         <div class="rd-container">

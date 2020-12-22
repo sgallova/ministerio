@@ -7,7 +7,7 @@
                 <h1 class="text-color-blue-bold title">Evalúe lo que Sabes</h1>
             </div>
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-1-5em">Los hechos</h2>
+                <h2 class="text-color-blue-bold title-300-2em">Los hechos</h2>
             </div>
         </div>
         <div class="rd-container">

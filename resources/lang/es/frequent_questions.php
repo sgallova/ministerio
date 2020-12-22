@@ -1,6 +1,6 @@
 <?php
 return [
-    "first_question" => "¿Qué es el <b>COVID-19</b>?",
+    "first_question" => "¿Qué es el<br><b>COVID-19</b>?",
     "second_question" => "¿Cuáles son los <b>síntomas</b> de COVID-19?",
     "third_question" => "¿Cómo <b>afecta</b> la infección por <b>COVID-19</b> a los niños, niñas y adolescentes?",
     "fourth_question" => "¿Cómo se <b>transmite la enfermedad</b> por COVID-19?",
