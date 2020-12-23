@@ -30,7 +30,13 @@
     background-image: url("../images/icon-arrow-circu-izqui.png");
 }
 .bar-range li a.cent {
+    background-image: url("../images/Icon-arrow-izqui-blank.png"), url("../images/Icon-arrow-dere-blank.png");
     background-position: 35%, 65%;
+}
+.bar-range li a.cent:hover .bar,
+.bar-range li a.cent.active .bar
+{
+    background-color: var(--color-blue-bold);
 }
 .bar-range li a.der {
     background-image: url("../images/icon-arrow-circu-dere.png");
@@ -57,7 +63,7 @@
     display: inline-block;
     width: 4px;
     height: 40px;
-    background-color: var(--color-blue-bold);
+    background-color: var(--color-blue-ligth);
     margin: 0 2em;
 }
 .text-range {

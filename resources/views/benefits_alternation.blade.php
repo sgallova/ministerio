@@ -180,10 +180,13 @@
             </div>
         </div>
     </section>
-    <section class="bg-color-blue-blod full">
+    <section class="bg-color-blue-blod full margin-top-2-5em">
         <div class="rd-container">
             <div class="rd-element rd-s-100 t-center flex rd-element-align-center rd-element-justify-center">
-                <p class="text-color-blue-ligth"><a href="{{ route('know-about') }}"><img src="images/nav-foot-1.png" alt=""></a><a href="{{ route('explore-your-feelings') }}"><img src="images/nav-foot-3.png" alt=""></a></p>
+                <p class="text-color-blue-ligth">
+                    <a class="next-sub next-one" href="{{ route('know-about') }}"></a>
+                    <a class="next-sub next-tree" href="{{ route('explore-your-feelings') }}"></a>
+                </p>
             </div>
         </div>
     </section>

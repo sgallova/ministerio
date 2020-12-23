@@ -19,12 +19,11 @@
             @endforeach
         </div>
     </section>
-    <section class="bg-color-blue-blod full">
+    <section class="bg-color-blue-blod full margin-top-2-5em">
         <div class="rd-container">
             <div class="rd-element rd-s-100 t-center flex rd-element-align-center rd-element-justify-center">
                 <p class="text-color-blue-ligth">
-                    <a href="{{ route('evaluate-what-knows') }}">
-                        <img src="images/nav-foot-4.png" alt="">
+                    <a class="next-sub next-four" href="{{ route('evaluate-what-knows') }}">
                     </a>
                 </p>
             </div>

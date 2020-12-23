@@ -41,9 +41,9 @@
             </div>
         </div>
         <div class="rd-container text-range">
-            <div class="rd-element rd-s-100 rd-l-20"><span>Muy en Desacuerdo</span></div>
-            <div class="rd-element rd-s-100 rd-l-60 t-center"><span>Me es Indiferente</span></div>
-            <div class="rd-element rd-s-100 rd-l-20 t-right"><span>Muy de Acuerdo</span></div>
+            <div class="rd-element rd-s-30 rd-l-20"><span>Muy en Desacuerdo</span></div>
+            <div class="rd-element rd-s-40 rd-l-60 t-center"><span>Me es Indiferente</span></div>
+            <div class="rd-element rd-s-30 rd-l-20 t-right"><span>Muy de Acuerdo</span></div>
         </div>
     </div>
 </div>

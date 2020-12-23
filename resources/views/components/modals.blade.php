@@ -79,7 +79,7 @@
                             <b>1. Los mayores de 60 años</b>
                         </li>
                         <li>
-                            <b>2 .Las personas que tienen alguna de las siguientes condiciones de salud:</b>
+                            <b>2. Las personas que tienen alguna de las siguientes condiciones de salud:</b>
                             <ul class="vinetas">
                                 <li>Hipertensión</li>
                                 <li>Diabetes</li>
@@ -195,13 +195,13 @@
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
                     <h3 class="text-color-blue-bold">
-                        ¿Es más frecuente la <b>transmisión</b> de COVID-19 en niños cuando van a las <b>instituciones educativas?</b>
+                        ¿Es más frecuente la <b>transmisión</b> de COVID-19<br> en niños cuando van a las <b>instituciones educativas?</b>
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-30">
+                <div class="rd-element rd-s-100 rd-l-40">
                     <img src="images/f-ninos.png" alt="">
                 </div>
-                <div class="rd-element rd-s-100 rd-l-70">
+                <div class="rd-element rd-s-100 rd-l-60">
                     <p>
                         El contagio es poco probable si en las instituciones educativas se toman las medidas de bioseguridad de forma estricta,
                         niños, niñas, adolescentes, jóvenes y adultos se apropian de las medidas de cuidado y autocuidado,

@@ -7,12 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ asset('css/template.css') }}">
     @stack('plugin-css')
+    <link rel="stylesheet" href="{{ asset('css/movil.css') }}">
 </head>
 <body>
 <header class="flex rd-element-align-center">
     <img src="images/logomin.png" alt="">
 </header>
-<section class="rd-container">
+<section id="infomation" class="rd-container">
     <div class="rd-element rd-s-100 rd-l-50">
         <div class="rd-container-row">
             <div class="rd-element rd-s-100 rd-l-30 rd-element-align-center flex">
@@ -39,24 +40,21 @@
 <section id="navs" class="bg-color-blue-blod">
     <div class="rd-container">
         <div class="rd-element rd-s-100">
-            <h3 class="t-center text-color-blue-ligth font-size-2em text-uppercase">
+            <h3 class="t-center text-color-blue-ligth font-size-1-1em text-uppercase">
                 ¿Qué debo saber para el retorno de mi hijo a la institución educativa?
             </h3>
         </div>
         <div class="rd-element-row rd-s-100 rd-l-80 container-all-section-nav">
-            <div class="rd-element rd-s-100 rd-l-20">
-                <a href="{{ route('know-about') }}">
-                    <div class="container-section-nav {{ $menu == 'know-about' ? 'active' : '' }}">
-                        <div class="section-number">
-                            <h4>1</h4>
-                        </div>
-                        <div class="section-text">
-                            <p>Conozca Sobre<br>el COVID-19</p>
-                        </div>
+            <a href="{{ route('know-about') }}">
+                <div class="container-section-nav {{ $menu == 'know-about' ? 'active' : '' }}">
+                    <div class="section-number">
+                        <h4>1</h4>
                     </div>
-                </a>
-            </div>
-            <div class="rd-element rd-s-100 rd-l-20">
+                    <div class="section-text">
+                        <p>Conozca Sobre<br>el COVID-19</p>
+                    </div>
+                </div>
+            </a>
                 <a href="{{ route('benefits-alternation') }}">
                     <div class="container-section-nav {{ $menu == 'benefits-alternation' ? 'active' : '' }}">
                         <div class="section-number">
@@ -67,8 +65,6 @@
                         </div>
                     </div>
                 </a>
-            </div>
-            <div class="rd-element rd-s-100 rd-l-20">
                 <a href="{{ route('explore-your-feelings') }}">
                     <div class="container-section-nav {{ $menu == 'explore_your_feelings' ? 'active' : '' }}">
                         <div class="section-number">
@@ -79,8 +75,6 @@
                         </div>
                     </div>
                 </a>
-            </div>
-            <div class="rd-element rd-s-100 rd-l-20">
                 <a href="{{ route('evaluate-what-knows') }}">
                     <div class="container-section-nav {{ $menu == 'evaluate-what-knows' ? 'active' : '' }}">
                         <div class="section-number">
@@ -91,8 +85,6 @@
                         </div>
                     </div>
                 </a>
-            </div>
-            <div class="rd-element rd-s-100 rd-l-20">
                 <a href="{{ route('messages-to-remember') }}">
                     <div class="container-section-nav {{ $menu == 'messages-to-remember' ? 'active' : '' }}">
                         <div class="section-number">
@@ -103,7 +95,6 @@
                         </div>
                     </div>
                 </a>
-            </div>
         </div>
     </div>
 </section>
@@ -117,22 +108,22 @@
             <div class="rd-container rd-element-justify-flex-end">
                 <div class="rd-element rd-s-100 rd-l-30">
                     <div class="rd-container no-padding">
-                        <div class="rd-element rd-s-100 rd-l-50 t-right">
+                        <div class="rd-element rd-s-50 rd-l-50 t-right">
                             <a href="https://www.facebook.com/Mineducacion" target="_blank">
                                 <img src="images/rs-fb.png" alt="">
                             </a>
                         </div>
-                        <div class="rd-element rd-s-100 rd-l-50">
+                        <div class="rd-element rd-s-50 rd-l-50">
                             <a href="https://www.youtube.com/mineducacion" target="_blank">
                                 <img src="images/rs-yt.png" alt="">
                             </a>
                         </div>
-                        <div class="rd-element rd-s-100 rd-l-50 t-right">
+                        <div class="rd-element rd-s-50 rd-l-50 t-right">
                             <a href="https://www.instagram.com/mineducacioncol/" target="_blank">
                                 <img src="images/rs-ins.png" alt="">
                             </a>
                         </div>
-                        <div class="rd-element rd-s-100 rd-l-50 ">
+                        <div class="rd-element rd-s-50 rd-l-50 ">
                             <a href="https://twitter.com/mineducacion" target="_blank">
                                 <img src="images/rs-twi.png" alt="">
                             </a>

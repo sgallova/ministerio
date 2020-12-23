@@ -2,16 +2,20 @@
 @import "grid.css";
 @import "colors.css";
 @import "fonts.css";
+
 * {
     font-family: 'Work Sans', sans-serif;
     line-height: 1.5em;
-    font-size: 14px;
+    font-size: 16px;
 }
 header {
     background: rgb(190,12,77);
     height: 300px;
     background: url("../images/img-encabezado.png") no-repeat right top,
     linear-gradient(90deg, rgba(190,12,77,1) 16.3%, rgba(230,239,253,1) 13%);
+}
+p, ul, li, a, b, strong {
+    font-size: 16px;
 }
 footer {
     padding: 2em 0;
@@ -28,16 +32,16 @@ ul {
     position: relative;
 }
 h1.title {
-    margin-top: .5em;
+    margin-top: 2em;
     margin-bottom: .5em;
-    font-size: 2.3em;
+    font-size: 25px;
     line-height: 1.2em;
 }
 h2.title-300-2em {
     margin-top: .5em;
     margin-bottom: .5em;
     font-weight: 300;
-    font-size: 2em;
+    font-size: 25px;
 }
 
 ul.no-padding {
@@ -75,7 +79,8 @@ ul.vinetas li{
     margin-top: 2.5em;
 }
 .container-question {
-    margin-top: 200px;
+    margin-top: 100px;
+    margin-bottom: 1em;
 }
 .redes-img img {
     margin: 5px;
@@ -89,19 +94,55 @@ ul.vinetas li{
 .text-uppercase {
     text-transform: uppercase;
 }
+.next-sub {
+    display: inline-block;
+    width: 352px;
+    height: 110px;
+    margin-left: 30px;
+    background-position-y: 10px;
+    background-position-x: 0px;
+    background-repeat: no-repeat;
+}
+.next-one {
+    background-image: url("../images/nav-foot-1.png"), url("../images/nav-foot-hover-1.png");
+}
+.next-two {
+    background-image: url("../images/nav-foot-2.png"), url("../images/nav-foot-hover-2.png");
+}
+.next-tree {
+   background-image: url("../images/nav-foot-3.png"), url("../images/nav-foot-hover-3.png");
+}
+.next-four {
+   background-image: url("../images/nav-foot-4.png"), url("../images/nav-foot-hover-4.png");
+}
+.next-five {
+   background-image: url("../images/nav-foot-5.png"), url("../images/nav-foot-hover-5.png");
+}
+.next-one:hover,
+.next-two:hover,
+.next-tree:hover,
+.next-four:hover,
+.next-five:hover{
+    background-position-x: 352px, 0;
+}
 /*
 components
  */
  .container-all-section-nav {
      position: absolute;
-     top: 50%;
+     top: 32%;
      display: flex;
      margin: auto;
      left: 0;
      right: 0;
+     flex-wrap: wrap;
+     max-width: 910px;
  }
  .container-all-section-nav a {
      text-decoration: none;
+     width: 174px;
+     display: inline-block;
+     margin: 4px;
  }
  .container-all-section-nav .container-section-nav {
      background-color: var(--color-red);
@@ -130,7 +171,7 @@ components
      box-shadow: 3px 0px 8px #820a358f, -3px 0px 8px #bdb4b7ad;
  }
  .container-section-nav .section-number h4{
-     font-size: 4em;
+     font-size: 53px;
  }
 .container-section-nav.active .section-number,
 .container-section-nav:hover .section-number{
@@ -143,7 +184,7 @@ components
     color: var(--color-blue-ligth);
 }
 .container-section-nav .section-text p {
-    font-size: 1.5em;
+    font-size: 18px;
 }
 .container-section-nav.active .section-text,
 .container-section-nav:hover .section-text{
@@ -152,7 +193,7 @@ components
 .container-all-section-evidences .container-evidence {
     border-top: 20px solid var(--color-red);
     background-color: var(--color-blue-bold);
-    min-height: 277px;
+    min-height: 320px;
     box-sizing: content-box;
     padding: .5em 1em;
     color: var(--color-blue-ligth);
@@ -190,7 +231,7 @@ components
 .container-frequent-question p,
 .container-frequent-question b
 {
-    font-size: 1.2em;
+    font-size: 1.1em;
     line-height: 22px;
 }
 .container-text{

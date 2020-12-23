@@ -1,0 +1,122 @@
+@media screen and (max-width: 600px) {
+    header {
+        height: 300px;
+        background-image: url(../images/img-encabezado.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-x: -422px;
+        align-items: flex-end !important;
+    }
+
+    p {
+        text-align: justify;
+    }
+    #infomation > div:first-child .rd-element{
+        text-align: center;
+        justify-content: center;
+        padding: 1em 0;
+    }
+    #infomation > div:first-child h2 {
+        text-align: center;
+    }
+    #infomation > div:first-child h2.margin-top-2-5em {
+        margin-top: 0 !important;
+    }
+    #infomation > div:first-child h2:last-child {
+        margin-bottom: 0;
+    }
+
+    #infomation > div:last-child p:last-child {
+        text-align: center;
+    }
+    .container-all-section-nav {
+        position: relative !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container-all-section-nav a {
+        width: 190px;
+        margin-bottom: 2em;
+    }
+    .container-all-section-nav .container-section-nav {
+        padding: .3em 0;
+        box-shadow: none;
+
+    }
+    .container-all-section-nav a:nth-child(2n) .container-section-nav
+    {
+        flex-direction: row-reverse;
+    }
+    .container-all-section-nav a:nth-child(2n+1) .container-section-nav
+    {
+        flex-direction: row;
+    }
+    .container-section-nav .section-number {
+        width: 45px;
+        height: 45px;
+        margin-right: 10px;
+    }
+    .container-all-section-nav a:nth-child(2n) .container-section-nav .section-number {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+    .container-all-section-nav a:nth-child(2n+1) .container-section-nav .section-number
+    {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .container-section-nav .section-number h4 {
+        font-size: 25px;
+    }
+    .container-all-section-nav a:nth-child(2n) .container-section-nav .section-text p {
+        text-align: right;
+        font-size: 15px;
+    }
+    .container-all-section-nav a:nth-child(2n+1) .container-section-nav .section-text p {
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .container-all-section-nav a:last-child .container-section-nav .section-text p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .container-question {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .container-all-section-evidences .container-evidence {
+        margin-bottom: 20px;
+        min-height: 145px;
+    }
+    .container-frequent-question {
+        height: 150px;
+    }
+    .bar-range li a {
+        background-size: 25px;
+    }
+    .bar-range li a.cent {
+        background-position: 21%, 80%;
+    }
+    .text-range span {
+        font-size: 1em;
+    }
+    p.flex.rd-element-align-center {
+        flex-direction: column;
+    }
+    .next-sub {
+        margin-left: 0;
+    }
+
+    footer .rd-container > div:first-child {
+        margin-bottom: 1em;
+    }
+    footer .rd-container > div:last-child p {
+        text-align: center;
+    }
+
+    footer .rd-s-50 {
+        text-align: center;
+}
+}
