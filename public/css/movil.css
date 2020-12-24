@@ -11,6 +11,14 @@
     p {
         text-align: justify;
     }
+    ul {
+        padding-left: 0;
+        margin-left: 0;
+    }
+    ul ul.vinetas {
+        padding-left: 2em;
+    }
+
     #infomation > div:first-child .rd-element{
         text-align: center;
         justify-content: center;
@@ -86,12 +94,35 @@
         margin-top: 0;
         margin-bottom: 0;
     }
+    .message-doct {
+        background-color: white;
+        border: 1px solid var(--color-blue-bold);
+        padding: .5em 1em;
+        margin-bottom: 1em;
+    }
+    .three {
+        text-align: center;
+    }
+    .three img {
+        width: 30%;
+    }
+    .four {
+        text-align: center;
+    }
+    .four img {
+        width: 23%;
+    }
+    .text-small {
+        font-size: 10px !important;
+        word-break: break-all;
+    }
     .container-all-section-evidences .container-evidence {
         margin-bottom: 20px;
         min-height: 145px;
     }
     .container-frequent-question {
         height: 150px;
+        margin-bottom: 0;
     }
     .bar-range li a {
         background-size: 25px;

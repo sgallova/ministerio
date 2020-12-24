@@ -25,10 +25,38 @@
                             <input type="radio" name="fact-{{ $loop->index }}" data-content="fact-{{ $loop->index }}" data-content-display="fact-sure-{{ $loop->index }}" id="fact-{{ $loop->index }}-sure">No estoy seguro
                         </label>
                     </div>
+                    <div id="fact-{{ $loop->index }}" class="container-twitter fact response none to-l">
+                        <div id="fact-yes-{{ $loop->index }}" class="fact-yes t-center none">
+                            @if ($fact['correct'] == 'yes')
+                                <img src="images/retro-correcto.png" alt="">
+                            @else
+                                <img src="images/retro-incorrecto.png" alt="">
+                            @endif
+                            <p class="t-center">
+                                {!! $fact['yes'] !!}
+                            </p>
+                        </div>
+                        <div id="fact-not-{{ $loop->index }}" class="fact-no t-center none">
+                            @if ($fact['correct'] == 'not')
+                                <img src="images/retro-correcto.png" alt="">
+                            @else
+                                <img src="images/retro-incorrecto.png" alt="">
+                            @endif
+                            <p class="t-center">
+                                {!! $fact['not'] !!}
+                            </p>
+                        </div>
+                        <div id="fact-sure-{{ $loop->index }}" class="fact-sure t-center none">
+                            <img src="images/retro-duda.png" alt="">
+                            <p class="t-center">
+                                {!! $fact['not_sure'] !!}
+                            </p>
+                        </div>
+                    </div>
                 </div>
             @endforeach
         </div>
-        <div class="rd-container">
+        <div class="rd-container from-l">
             @foreach(__('facts') as $fact)
                 <div class="rd-element rd-s-100 rd-l-1-3">
                     <div id="fact-{{ $loop->index }}" class="container-twitter fact response none">
