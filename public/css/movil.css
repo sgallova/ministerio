@@ -149,5 +149,10 @@
 
     footer .rd-s-50 {
         text-align: center;
-}
+    }
+    @media  (max-height: 800px){
+        .container-modal {
+            background-color: #be0c4d;
+        }
+    }
 }
