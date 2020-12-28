@@ -15,7 +15,9 @@
                     <p>
                         La infección por COVID-19 es menos común en los niños que en los adultos.
                         En los niños la infección suele ser más leve y se presentan más casos sin síntomas.
-                        De 100 personas. Que se infectan por COVID-19, solo 2 son niños
+                     </p>
+                      <p>
+                      De 100 personas. Que se infectan por COVID-19, solo 2 son niños
                     </p>
                 </div>
             </div>
