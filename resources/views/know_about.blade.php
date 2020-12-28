@@ -99,7 +99,7 @@
             <div class="rd-element rd-s-100 to-l">
                 <p>Los niños, niñas, adolescentes comúnmente presentan formas leves de la enfermedad por covid-19 o la padecen sin síntomas.</p>
                 <p>La implementación del protocolo de bioseguridad del sector educativo mitiga el riesgo de contagio para todos los miembros de la comunidad educativa</p>
-                <ul>
+               <!-- <ul>
                     <li>
                         <b>1. Los mayores de 60 años</b>
                     </li>
@@ -123,7 +123,7 @@
                 <p class="text-color-blue-bold">
                     <b>Consultar al médico para que le indique si su enfermedad lo pone en riesgo de mayor afectación al
                         contagiarse de COVID-19.</b>
-                </p>
+                </p>-->
             </div>
             <div class="rd-element rd-s-100 rd-l-20">
                 <div class="container-frequent-question" data-modal="modal-4">
