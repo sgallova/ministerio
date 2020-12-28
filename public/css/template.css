@@ -193,7 +193,7 @@ components
 .container-all-section-evidences .container-evidence {
     border-top: 20px solid var(--color-red);
     background-color: var(--color-blue-bold);
-    min-height: 320px;
+    min-height: 344px;
     box-sizing: content-box;
     padding: .5em 1em;
     color: var(--color-blue-ligth);
