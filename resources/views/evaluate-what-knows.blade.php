@@ -4,7 +4,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold title">Evalúe lo que Sabes</h1>
+                <h1 class="text-color-blue-bold title">Evalúe lo que Sabe</h1>
             </div>
             <div class="rd-element rd-s-100">
                 <h2 class="text-color-blue-bold title-300-2em">Los hechos</h2>
