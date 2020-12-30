@@ -6,7 +6,7 @@
     <section class="container-question">
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h1 class="text-color-blue-bold title">Conozca Sobre el COVID-19</h1>
+                <h1 class="text-color-blue-bold title">Conozca sobre la COVID-19</h1>
             </div>
         </div>
         <div class="rd-container container-all-section-evidences">
@@ -17,7 +17,7 @@
                         En los niños la infección suele ser más leve y se presentan más casos sin síntomas.
                      </p>
                       <p>
-                      De 100 personas. Que se infectan por COVID-19, solo 2 son niños
+                      De 100 personas. Que se infectan por COVID-19, solo 2 son niños.
                     </p>
                 </div>
             </div>
