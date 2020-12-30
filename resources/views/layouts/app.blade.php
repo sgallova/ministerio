@@ -21,7 +21,7 @@
             </div>
             <div class="rd-element rd-s-100 rd-l-70">
                 <div class="rd-container-col">
-                    <h2 class="text-color-red line-height-1em font-size-1-2em margin-top-2-5em">AYUDA PARA LA TOMA INFORMADA DE DECISIONES POR PARTE DE LA FAMILIA</h2>
+                    <h2 class="text-color-red line-height-1em font-size-1-2em margin-top-2-5em">AYUDA PARA LA TOMA DE DECISIONES INFORMADA POR PARTE DE LA FAMILIA</h2>
                     <h2 class="text-color-blue-bold line-height-1em font-400 font-size-1-2em">REGRESO A LAS INSTITUCIONES EDUCATIVAS DURANTE LA PANDEMIA COVID-19</h2>
                 </div>
             </div>
