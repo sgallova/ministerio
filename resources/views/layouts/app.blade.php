@@ -51,7 +51,7 @@
                         <h4>1</h4>
                     </div>
                     <div class="section-text">
-                        <p>Conozca Sobre<br>la COVID-19</p>
+                        <p>Conozca sobre<br>la COVID-19</p>
                     </div>
                 </div>
             </a>
