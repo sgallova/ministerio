@@ -10,14 +10,14 @@
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        Se mejora el aprendizaje con la educación presencial
+                        Se mejora el aprendizaje con la educación presencial.
                     </p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        La interacción presencial de los niños, niñas, adolescentes y jóvenes con personas de su misma edad desarrolla competencias socioemocionales y desarrollo integral
+                        La interacción presencial de los niños, niñas, adolescentes y jóvenes con personas de su misma edad desarrolla competencias socioemocionales y desarrollo integral.
                     </p>
                 </div>
             </div>
@@ -47,7 +47,7 @@
     <section class="bg-color-blue-ligth p-v-2em">
         <div class="rd-container">
             <div class="rd-element rd-s-100 t-center">
-                <p class="text-color-blue-bold"><b>¿Sabía usted que se conformará un comité que coordine la alternancia en su institución educativa? Si<br> desea participar puede contactar a su institución</b></p>
+                <p class="text-color-blue-bold"><b>¿Sabía usted que se conformará un comité que coordine la alternancia en su institución educativa? Si<br> desea participar puede contactar a su institución.</b></p>
             </div>
         </div>
     </section>
