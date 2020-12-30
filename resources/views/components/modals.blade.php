@@ -206,7 +206,7 @@
                             por completo</b> la transmisión de COVID-19?
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-30 flex rd-element-justify-center rd-element-align-self t-center">
+                <div class="rd-element rd-s-100 rd-l-40 flex rd-element-justify-center rd-element-align-self t-center">
                     <img src="images/i6.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60 flex rd-element-align-center rd-element-col">
@@ -237,7 +237,7 @@
                         ¿Por qué <b>reabrir</b> las instituciones<br>educativas?
                     </h3>
                 </div>
-                <div class="rd-element rd-s-100 rd-l-35 t-center">
+                <div class="rd-element rd-s-100 rd-l-40 t-center">
                     <img src="images/i9.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60">

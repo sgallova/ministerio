@@ -51,11 +51,18 @@
 
 .container-modal-content {
     width: 100%;
-    height: calc(100% - 1em);
+    height: 100%;
     overflow-y: auto;
-    box-sizing: border-box;
-    padding: 1em 2em;
+    padding: 2em;
+}
+.container-modal-content > div.rd-container {
     display: flex;
+    height: 100%;
+}
+
+#modal-1.container-modal-content > div.rd-container,
+#modal-3.container-modal-content > div.rd-container
+{
     align-items: center;
 }
 .container-modal-content h3
