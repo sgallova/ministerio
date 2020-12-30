@@ -12,7 +12,7 @@
                     <img src="images/i1.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-70">
-                    <h3 class="text-color-blue-bold">Qué es el <br> <b>COVID-19</b></h3>
+                    <h3 class="text-color-blue-bold">¿Qué es el <br> <b>COVID-19?</b></h3>
                     <br><br>
                     <p>El COVID-19 es el nombre de la enfermedad responsable de la pandemia actual. Es una enfermedad principalmente respiratoria y altamente contagiosa.</p>
                 </div>
@@ -66,39 +66,17 @@
         <div class="container-modal-content none" id="modal-3">
             <div class="rd-container">
                 <div class="rd-element rd-s-100">
-                    <h3 class="text-color-blue-bold">¿Cómo <b>afecta</b> la infección por <b>COVID-19</b><br> a los niños, niñas y adolescentes</h3>
+                    <h3 class="text-color-blue-bold">¿Cómo <b>afecta</b> la infección por <b>COVID-19</b><br> a los niños, niñas y adolescentes?</h3>
                 </div>
                 <div class="rd-element rd-s-100 rd-l-30 flex rd-element-justify-center">
                     <img src="images/i3.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-70">
-                    <p>Los niños, niñas, adolescentes comúnmente presentan formas leves de la enfermedad por covid-19 o la padecen sin síntomas.</p>
-                    <p>La implementación del protocolo de bioseguridad del sector educativo mitiga el riesgo de contagio para todos los miembros de la comunidad educativa</p>
-                    <ul>
-                        <li>
-                            <b>1. Los mayores de 60 años</b>
-                        </li>
-                        <li>
-                            <b>2. Las personas que tienen alguna de las siguientes condiciones de salud:</b>
-                            <ul class="vinetas">
-                                <li>Hipertensión</li>
-                                <li>Diabetes</li>
-                                <li>Enfermedades del corazón</li>
-                                <li>Falla renal que requiere diálisis</li>
-                                <li>Enfermedad pulmonar obstructiva crónica (EPOC)</li>
-                                <li>Enfermedades autoinmunes</li>
-                                <li>Deficiencias del sistema inmunológico (inmunodeficiencia)</li>
-                                <li>Cáncer de cualquier tipo</li>
-                                <li>Sobrepeso u obesidad</li>
-                                <li>Desnutrición</li>
-                                <li>Fumado</li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <p class="text-color-blue-bold">
-                        <b>Consultar al médico para que le indique si su enfermedad lo pone en riesgo de mayor afectación al
-                            contagiarse de COVID-19.</b>
-                    </p>
+                <ul class="vinetas">
+                    <li>Los niños, niñas, adolescentes comúnmente presentan formas leves de la enfermedad por covid-19 o la padecen sin síntomas.</li>
+                    <li>La implementación del protocolo de bioseguridad del sector educativo mitiga el riesgo de contagio para todos los miembros de la comunidad educativa.</li>
+                 </ul>
+                   
                 </div>
             </div>
         </div>
