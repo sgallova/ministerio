@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class NavegationController extends Controller
+class NavigationController extends Controller
 {
     /**
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\View\View
@@ -41,7 +41,7 @@ class NavegationController extends Controller
      */
     public function EvaluateWhatKnows()
     {
-        return view('evaluate-what-knows', [
+        return view('evaluate_what_knows', [
             'menu' => 'evaluate-what-knows'
         ]);
     }
@@ -53,7 +53,7 @@ class NavegationController extends Controller
 
     public function MessagesRemember()
     {
-        return view('messages-to-remember', [
+        return view('messages_to_remember', [
             'menu' => 'messages-to-remember'
         ]);
     }

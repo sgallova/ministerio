@@ -13,8 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'NavegationController@KnowAbout')->name('know-about');
-Route::get('/beneficios-de-la-alternancia', 'NavegationController@BenefitsAlternation')->name('benefits-alternation');
-Route::get('/explore-sus-sentimientos', 'NavegationController@ExploreYourFeelings')->name('explore-your-feelings');
-Route::get('/evalue-lo-que-sabe', 'NavegationController@EvaluateWhatKnows')->name('evaluate-what-knows');
-Route::get('/mensajes-para-recordar', 'NavegationController@MessagesRemember')->name('messages-to-remember');
+Route::get('/', 'NavigationController@KnowAbout')->name('know-about');
+Route::get('/beneficios-de-la-alternancia', 'NavigationController@BenefitsAlternation')->name('benefits-alternation');
+Route::get('/explore-sus-sentimientos', 'NavigationController@ExploreYourFeelings')->name('explore-your-feelings');
+Route::get('/evalue-lo-que-sabe', 'NavigationController@EvaluateWhatKnows')->name('evaluate-what-knows');
+Route::get('/mensajes-para-recordar', 'NavigationController@MessagesRemember')->name('messages-to-remember');
