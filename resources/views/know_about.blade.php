@@ -48,7 +48,7 @@
         </div>
         <div class="rd-container">
             <div class="rd-element rd-s-100">
-                <h2 class="text-color-blue-bold title-300-2em"><br>Preguntas Frecuentes</h2>
+                <h1 class="text-color-blue-bold title"><br><br>Preguntas Frecuentes</h1>
             </div>
         </div>
         <div class="rd-container">
