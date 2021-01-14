@@ -53,7 +53,7 @@
                             <ul class="vinetas no-padding">
                                 <li>Vómitos o diarrea</li>
                                 <li>Dolor abdominal</li>
-                                <li>Brote en la pie</li>
+                                <li>Brote en la piel</li>
                             </ul>
                             <div class="bg-color-blue-ligth p-1em">
                                 <p class="text-color-blue-bold"><b>Si presenta estos síntomas debe consultar a su médico.</b></p>
@@ -108,7 +108,7 @@
                     <img src="images/p4-e1-c.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60 t-center auto">
-                    <p class="text-small">
+                    <p class="text-small" style="font-size: .7em !important;">
                         Tomado y traducido de: “Considerations for Preparing for In-Person Learning During COVID-19. Emily Frank, MD,
                         Pediatrician & Public School Teacher; Noemi Spinazzi, MD, Pediatrician; and Sohil Sud, MD, Pediatrician. UCSF
                         Collaborative to Advise on Re-opening Education Safely (CARES). 13 Agosto 2020. Disponible en:
@@ -122,7 +122,7 @@
                     <img src="images/p4-e2-d.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60 auto t-center">
-                    <p class="text-small">
+                    <p class="text-small" style="font-size: .7em !important;">
                         Tomado y traducido de: “Considerations for Preparing for In-Person Learning During COVID-19. Emily Frank, MD,
                         Pediatrician & Public School Teacher; Noemi Spinazzi, MD, Pediatrician; and Sohil Sud, MD, Pediatrician. UCSF
                         Collaborative to Advise on Re-opening Education Safely (CARES). 13 Agosto 2020. Disponible en:
@@ -249,8 +249,8 @@
                         <li>Favorece el acceso y la permanencia, y por tanto trayectorias educativas desde la primera infancia hasta la educación superior.</li>
                         <li>Promueve la equidad en las oportunidades de aprendizaje</li>
                         <li>Disminuye los riesgos de vulneración y aumenta los factores de protección de los derechos de los niños, niñas, adolescentes y jóvenes.</li>
-                        <li>Retomar la institución educativa como espacio protector de los derechos de los niños, niñas, adolescentes y jóvenes.</li>
-                        <li>Contribuye al bienestar de la familia al aliviar la carga laboral y económica que representa para algunos padres renunciar al empleo y quedarse en casa al cuidado de los hijos.</li>
+                        <li>Se constituyen en espacio protector de los derechos de los niños, niñas, adolescentes y jóvenes.</li>
+                        <li>La alternancia contribuye al bienestar de la familia, al aliviar la carga de quienes asumen actividades de crianza al mismo tiempo que laborales y económicas.</li>
                     </ul>
                 </div>
             </div>
@@ -274,7 +274,7 @@
                         no asistir a la institución, ni debe permitirse su ingreso a la misma.
                     </p>
                     <p>
-                        Debe llamarse inmediatamente a su EPS correspondiente, y seguir al pie de la letra las instrucciones y recomendaciones del médico.
+                        Debe llamar inmediatamente a su EPS, y seguir al pie de la letra las instrucciones y recomendaciones del médico.
                     </p>
                     <p>
                         En caso de que un estudiante en la institución sea sospechoso de tener COVID-19 debe aislarse y llamar a sus acudientes.
@@ -293,9 +293,8 @@
                     <img src="images/i11.png" alt="">
                 </div>
                 <div class="rd-element rd-s-100 rd-l-60 flex rd-element-align-center rd-element-col">
-                    <p>La capacidad de que un niño transmita la infección por COVID-19 a otras personas (otros niños o adultos) puede ser igual o incluso menor en comparación a los adultos.</p>
-                    <p>Los niños no son súper-transmisores como se creía al inicio de la pandemia.</p>
-                    <p>Cuando hay personas positivas para COVID-19 en una familia, rara vez el niño es el caso inicial. Suelen ser las personas adultas de la familia.</p>
+                    <p>La capacidad de que un niño transmita la infección por COVID-19 a otras personas puede ser igual o incluso menor en comparación a los adultos. Los niños no son súper-transmisores como se creía al inicio de la pandemia.</p>
+                    <p>Cuando hay personas positivas para COVID-19 en una familia, rara vez el niño es el caso inicial; suelen ser las personas adultas de la familia los transmisores.</p>
                 </div>
             </div>
         </div>
