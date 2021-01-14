@@ -17,7 +17,7 @@
                         En los niños la infección suele ser más leve y se presentan más casos sin síntomas.
                      </p>
                       <p>
-                      De 100 personas. Que se infectan por COVID-19, solo 2 son niños.
+                      De 100 personas que se infectan por COVID-19, solo 2 son niños.
                     </p>
                 </div>
             </div>
