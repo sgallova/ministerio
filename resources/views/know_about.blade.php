@@ -7,6 +7,7 @@
         <div class="rd-container">
             <div class="rd-element rd-s-100">
                 <h1 class="text-color-blue-bold title">Conozca sobre la COVID-19</h1>
+                <p class="text-color-blue-bold">Estas respuestas son resultado de las investigaciones realizadas a diciembre de 2020, serán actualizados.</p>
             </div>
         </div>
         <div class="rd-container container-all-section-evidences">
