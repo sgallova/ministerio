@@ -18,3 +18,6 @@ Route::get('/beneficios-de-la-alternancia', 'NavigationController@BenefitsAltern
 Route::get('/explore-sus-sentimientos', 'NavigationController@ExploreYourFeelings')->name('explore-your-feelings');
 Route::get('/evalue-lo-que-sabe', 'NavigationController@EvaluateWhatKnows')->name('evaluate-what-knows');
 Route::get('/mensajes-para-recordar', 'NavigationController@MessagesRemember')->name('messages-to-remember');
+Route::get('/public', function(){
+   return redirect()->route('know-about');
+});
