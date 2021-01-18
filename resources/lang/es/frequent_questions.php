@@ -11,5 +11,4 @@ return [
     "ninth_question" => "¿Por qué <b>reabrir</b> las instituciones educativas?",
     "tenth_question" => "¿Qué hacer en caso de que el niño o una persona que <b>conviva</b> con él, tenga síntomas de COVID-19?",
     "eleventh_question" => "¿Es frecuente que los niños y niñas <b>transmitan</b> a otras personas el COVID-19?"
-
 ];

@@ -8,7 +8,7 @@ return [
             <b>Eso es correcto.</b> La posibilidad de que un niño transmita la infección por COVID-19
             a otras personas parece ser igual o incluso menor en comparación a los adultos.",
        "not_sure" => "
-            Puede ayudar <b>revisar el paso “<a href='/'>conozca la evidencia</a>”.</b> La posibilidad de que un niño transmita la infección por COVID-19 a otras personas parece ser igual o incluso menor en comparación a los adultos.",
+            Puede ayudar <b>revisar el paso “<a href='/public'>conozca la evidencia</a>”.</b> La posibilidad de que un niño transmita la infección por COVID-19 a otras personas parece ser igual o incluso menor en comparación a los adultos.",
        "correct" => "not"
     ],
     "second_fact" => [
@@ -20,7 +20,7 @@ return [
             <b>Eso es correcto.</b> La infección por COVID-19 es menos común en los niños que en los adultos.
             En los niños la infección suele ser más leve y se presentan más casos sin síntomas.",
         "not_sure" => "
-            Puede ayudar <b>revisar el paso “<a href='/'>conozca la evidencia</a>”.</b> La infección por COVID-19 es menos común en los niños que en los adultos.
+            Puede ayudar <b>revisar el paso “<a href='/public'>conozca la evidencia</a>”.</b> La infección por COVID-19 es menos común en los niños que en los adultos.
             En los niños la infección suele ser más leve y se presentan más casos sin síntomas.",
        "correct" => "not"
 
@@ -34,7 +34,7 @@ return [
             Perdón, eso <b>no es correcto.</b> Cuando un niño es positivo para COVID-19, es más probable que se lo haya transmitido un adulto en su núcleo familiar,
             que otro niño en su institución educativa.",
         "not_sure" => "
-            Puede ayudar <b>revisar el paso “<a href='/'>conozca la evidencia</a>”.</b> Cuando un niño es positivo para COVID-19,
+            Puede ayudar <b>revisar el paso “<a href='/public'>conozca la evidencia</a>”.</b> Cuando un niño es positivo para COVID-19,
             es más probable que se lo haya transmitido un adulto en su núcleo familiar, que otro niño en su institución educativa.",
        "correct" => "yes"
     ]
