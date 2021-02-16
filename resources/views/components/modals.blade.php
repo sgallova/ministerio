@@ -182,7 +182,7 @@
                 <div class="rd-element rd-s-100 rd-l-60">
                     <p>
                         El contagio es poco probable si en las instituciones educativas se toman las medidas de bioseguridad de forma estricta,
-                        niños, niñas, adolescentes, jóvenes y adultos se apropian de las medidas de cuidado y autocuidado,
+                        y niños, niñas, adolescentes, jóvenes y adultos se apropian de las medidas de cuidado y autocuidado,
                         y estos aprendizajes se promueven en el hogar.
                     </p>
                     <p>
