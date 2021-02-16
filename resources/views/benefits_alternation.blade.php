@@ -17,28 +17,28 @@
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        La interacción presencial de los niños, niñas, adolescentes y jóvenes con personas de su misma edad desarrolla competencias socioemocionales y desarrollo integral.
+                        La interacción presencial de los niños, niñas, adolescentes y jóvenes con personas de su misma edad promueve el desarrollo de competencias socioemocionales y desarrollo integral.
                     </p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        Incrementar la actividad física regular y rutinas de sueño y descanso apropiadas.
+                        Permite incrementar la actividad física regular y rutinas de sueño y descanso apropiadas.
                     </p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        La alternancia promueve nuevas formas de aprendizaje.
+                        Promueve nuevas formas de aprendizaje.
                     </p>
                 </div>
             </div>
             <div class="rd-element rd-s-100 rd-l-50">
                 <div class="container-text">
                     <p>
-                        Disminuir el tiempo de exposición a las pantallas.
+                        Ayuda a disminuir el tiempo de exposición a las pantallas.
                     </p>
                 </div>
             </div>
